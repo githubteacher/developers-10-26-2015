@@ -1,6 +1,6 @@
 ## Raghav Gupta
 
-**Name:** Raghav Gupta
+**Name:** Raghav
 
 **Role:** Essbase Developer
 
