@@ -5,3 +5,5 @@
 **Role:** Trainer
 
 **Objective:** Help everyone learn to work together using GitHub
+
+**Favorite Vacation Spot:** Portland
